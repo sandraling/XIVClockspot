@@ -1,6 +1,6 @@
 # XIV Clockspots
 
-This project is a work-in-progress! Going to keep 
+This project is a work-in-progress!
 
 ## Running the Project
 
